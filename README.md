@@ -59,5 +59,6 @@ Please follow these steps:
 * 在你克隆的仓库设置中的  `Actions secrets and variables` 选项中添加如下秘密环境变量：  
 <a href="/Documentation/screen1.png"><img src="/Documentation/screen1.png?raw=true" alt="Screenshot of Actions secrets" width="800"></a>  
   `KEY_ALIAS`, `KEY_PASSWORD`, `STORE_FILE`, `STORE_PASSWORD`，这些变量的值都在群中。
+  
 * 在Github Actions中触发编译
 * 下载`Artifacts`中的编译产物`aaps.zip`
